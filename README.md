@@ -49,7 +49,8 @@ Below data science concepts are used in this project
 
 ## DEMO
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![h1](https://github.com/user-attachments/assets/3f42a189-cc1f-4df3-97d9-4eb5508d1412)
+
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
