@@ -51,6 +51,6 @@ Below data science concepts are used in this project
 
 ![h1](https://github.com/user-attachments/assets/3f42a189-cc1f-4df3-97d9-4eb5508d1412)
 
+![h2](https://github.com/user-attachments/assets/c8f256a9-cac4-485d-9bdf-792b18193aa9)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
